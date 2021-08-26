@@ -14,7 +14,7 @@ INSERT INTO student(id, name, firstname, email, faculty, semester, certificate, 
 INSERT INTO student(id, name, firstname, email, faculty, semester, certificate, university) VALUES (
 2,'Awoukeng Wankam','Eddy Terence','terence.awoukeng@fau.de','Electrotechnic',6,'B.Sc.','FAU ER-Nu');
 INSERT INTO student(id, name, firstname, email, faculty, semester, certificate, university) VALUES (
-3,'Boum','Mylene Marc','mylene.boum@fau.de','Mechatronic',3,'M.SC:','FAU ER-Nu');
+3,'Boum','Mylene Marc','mylene.boum@fau.de','Mechatronic',3,'M.Sc.','FAU ER-Nu');
 INSERT INTO student(id, name, firstname, email, faculty, semester, certificate, university) VALUES (
 4,'Ngankam','Freddy','freddy.ngankam@thn.de','Electrotechnic',2,'M.Sc.','TH-Nu');
 INSERT INTO student(id, name, firstname, email, faculty, semester, certificate, university) VALUES (
